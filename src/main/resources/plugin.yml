@@ -1,0 +1,10 @@
+name: customInventory
+version: '1.0'
+main: me.matt5262.customInventory.CustomInventory
+api-version: '1.21'
+authors: [ Matt_5262 ]
+description: My first plugin ever
+commands:
+  menu:
+    description: none
+    usage: figure it out
